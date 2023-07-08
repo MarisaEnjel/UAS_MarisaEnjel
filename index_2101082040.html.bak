@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Her</title>
+	<meta name="author" content="Marisa Enjel">
+	<meta name="description" content="UTS">
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	<link rel="shortcut icon" href="images_2101082040/favicon-sepakbola_2101082040.ico">
+	<link href="css_2101082040/style_css.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	
+	<div class="badan-utama">
+	
+		<div class="media">
+			<a href=""><img src="images_2101082040/images_2101082040.png"></a>
+			<a href=""><img src="images_2101082040/images (2)_2101082040.png"></a>
+			<a href=""><img src="images_2101082040/images (1)_2101082040.png"></a>
+			<a href=""><img src="images_2101082040/download_2101082040.png"></a>
+			<a href=""><img src="images_2101082040/images (3)_2101082040.png"></a>
+			<a href=""><img src="images_2101082040/images (4)_2101082040.png"></a>
+			<a href="index_2101082040.html"><img src="images_2101082040/images_2101082040.jpg"></a>
+			<hr>
+		</div>
+		
+		<div class="navigasi">
+			<ul>
+				<li><a href="">Liga Inggris</a></li>
+				<li><a href="">Liga Italia</a></li>
+				<li><a href="">Liga Spanyol</a></li>
+			</ul>
+		</div>
+		
+		<div class="running-text">
+			<marquee onmouseover="this.stop()" onmouseout="this.start()">
+				<font>Selamat datang di Portal Berita Bola =Laga Pramusim: MU Hantam Melbourne Victory 4-1=Hasil Piala AAF U-19</font> 
+			</marquee>
+		</div>
+		
+		<header>
+			<div class="header-kiri">
+				<video controls>
+					<source src="video_2101082040/Latest Football Transfer Updates_2101082040.mp4" type="video/mp4">
+				</video>
+			</div>
+			
+			<div class="header-kanan">
+				<img src="images_2101082040/cristiano-ronaldo_2101082040.jpeg"><br>
+				<a href="peluang-psg_2101082040.html">Peluang PSG dan Spanyol</a>
+			</div>
+			<div class="header-kanan">
+				<img src="images_2101082040/mu-vs-liverpool-darwin-nunez-1_169_2101082040.jpeg"><br>
+				<a href="peluang-psg.html">Darwin Names masih Adaptasi</a>
+			</div>
+			<div class="header-kanan">
+				<img src="images_2101082040/tuchel-lukaku_169_2101082040.jpeg"><br>
+				<a href="peluang-psg.html">Lukaku di Inter</a>
+			</div>
+			<div class="header-kanan">
+				<img src="images_2101082040/cesc-fabregas-as-monaco_169_2101082040.jpeg"><br>
+				<a href="peluang-psg.html">Fabregas merapat ke como</a>
+			</div>
+		</header>
+		
+			<section>
+				<div class="menu-kiri">
+					<span class="judul">NEWS FEED</span>
+						<div class="kotak">
+							<div class="artikel">
+								<table>
+									<tr valign="top">
+										<td><img src="images_2101082040/cristiano-ronaldo_2101082040.jpeg"></td>
+										<td>
+											<a href="psg-kurang-apa_2101082040.html">Tak Kunjung Juara Liga Champions, PSG Kurang Apa sih?</a><br>
+											<span class="tanggal-posting">Kamis, 14 Juli 2022 14:00 WIB</span>
+											Jakarta - Paris Saint-Germain belum juga mampu menjuarai Liga Champions. Rutin punya skuad bertabur bintang, apa sih yang kurang dari raksasa asal Prancis itu?
+										</td>
+									</tr>
+									<tr valign="top">
+										<td><img src="images_2101082040/erling-haaland_169_2101082040.jpeg"></td>
+										<td>
+											<a href="psg-kurang-apa.html">Erling Haaland Tak Ambil Pusing Soal Ekspetasi</a><br>
+											<span class="tanggal-posting">Kamis, 14 Juli 2022 14:00 WIB</span>
+											Manchester - Ekspetasi Tinggi mengiringi kedatangan Erling Haaland ke manchester city meningkat reputasi dan nilai transfernya. Meski demikian,Haaland santai saja
+										</td>
+									</tr>
+									<tr valign="top">
+										<td><img src="images_2101082040/logo-piala-aff-u-19-2022_169_2101082040.jpeg"></td>
+										<td>
+											<a href="psg-kurang-apa.html">Hasil Piala AAF U-19: Vietnam Kalahkan Thailand,Kunci Posisi Ketiga</a><br>
+											<span class="tanggal-posting">Kamis, 14 Juli 2022 14:00 WIB</span>
+											Jakarta - Vietnam Menjadi tim peringkat ketiga Piala AAF U-19 2022. Mereka mengalahkan Thailand Lewat drama adu penalti di stadion patriot Chandrabhaga,Bekasi
+										</td>
+									</tr>
+								</table>
+							</div>	
+						</div>
+				</div>
+				
+				<div class="menu-kanan">
+			
+					<span class="judul">BERITA TERPOPULER</span>
+						<div class="kotak">
+							<a href="">Laga Pramusim MU Hantam Melbourne Victory 4-1</a><br><br>
+							<a href="">Hasil Piala AFF U-19 Vietnam Kalahkan Thailand. Kunci Posisi Ketiga</a><br><br>
+							<a href="">Meme Kocak Ronaldo Ditolak di Mana-mana</a>
+						</div>
+						
+						<span class="judul">FOOTBALL MOMENTS</span>
+						<div class="kotak">
+							<video controls poster="images_2101082040/download_2101082040.jpg">
+								<source src="video/Moments that Can't be Repeated in Football.mp4" type="video/mp4">
+							</video>
+						</div>
+				</div>
+			</section>
+			
+			<footer>
+				<div class="footer-kiri">
+				Alamat
+				<hr>
+				Transmedia, Jl. Kapten Tendean No.12-14A,RT.2/RW.2, Mampang Prpt, Kec. Mampang Prpt, Kota Jakarta Selatan,Daerah Khusus Ibukota Jakarta 12790
+			</div>
+			<div class="footer-tengah">
+				Informasi
+				<hr>
+				Redakal<br>
+				Karir<br>
+				Media Partner<br>
+				Info Iklan
+				
+			</div>
+			<div class="footer-kanan">
+				Connect With Us
+				<hr>
+				<div class="media">
+					<a href="" target="_blank">
+					<img src="images_2101082040/ig_2101082040.png">
+					</a>
+					<a href="" target="_blank">
+					<img src="images_2101082040/twitter_2101082040.png">
+					</a>
+					<a href="" target="_blank">
+					<img src="images_2101082040/fb_2101082040.png">
+					</a>
+				</div>
+				Copyright @ 2022 detikcom.<br>
+				All right reserved
+			</div>
+			</footer>
+		
+	</div>
+	
+</body>
+</html>
